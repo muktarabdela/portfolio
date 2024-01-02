@@ -13,8 +13,9 @@ const Hero = () => {
       </div>
 
       <div className="flex -8 lg:mt-10">
-        <a href="/public/muktar.pdf"
-          target="_blank" >
+        <a href="https://www.dropbox.com/preview/muktar.pdf?context=content_suggestions&role=personal"
+          target="_blank" rel="noreferrer"
+        >
           <button className="
         max-w-7xl ml-5 flex flex-row items-start gap-5
         bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded relative bottom-[6em] lg:bottom-[12em]">
