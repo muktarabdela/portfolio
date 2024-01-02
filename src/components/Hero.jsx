@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
 
       <div className="flex -8 lg:mt-10">
-        <a href="https://www.dropbox.com/preview/muktar.pdf?context=content_suggestions&role=personal"
+        <a href="https://www.dropbox.com/scl/fi/xxd1fcrnd9j2117md4uj6/muktar.pdf?rlkey=xufr58uhzzsfdvstw7xzbbdx6&dl=0"
           target="_blank" rel="noreferrer"
         >
           <button className="
