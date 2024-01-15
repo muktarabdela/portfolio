@@ -5,7 +5,6 @@ const Hero = () => {
       <div className={`${styles.paddingX} relative inset-0 top-[4em]  max-w-7xl mx-auto flex flex-row items-start gap-5`}>
         <h1 className={`${styles.heroHeadText} text-white`}>Hi I'm <span className="text-[#915eff]"> Muktar</span> </h1>
       </div>
-
       <div className="mt-[12em] lg:mt-[19em]">
       </div>
       <div className="max-w-7xl ml-6 flex flex-row items-start gap-5">
@@ -13,7 +12,7 @@ const Hero = () => {
       </div>
 
       <div className="flex -8 lg:mt-10">
-        <a href="https://www.dropbox.com/scl/fi/xxd1fcrnd9j2117md4uj6/muktar.pdf?rlkey=xufr58uhzzsfdvstw7xzbbdx6&dl=0"
+        <a href="https://1drv.ms/b/s!AhGJn5cEGQ6WgW3LUup7Fk3N0PMC?e=kXy9or"
           target="_blank" rel="noreferrer"
         >
           <button className="
@@ -22,7 +21,7 @@ const Hero = () => {
             Download CV
           </button>
         </a>
-        <a href="https://www.evangadi.com/files/certificates/student/MuktarAbdela11_28_2023_0454/MuktarAbdela.jpg"
+        <a href="/public/muktar.pdf"
           target="_blank" rel="noreferrer"
         >
           <button className="
